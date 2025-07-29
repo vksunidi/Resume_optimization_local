@@ -1,0 +1,29 @@
+Job Title: Entry-Level Data Scientist  
+Company: TechNova Analytics  
+Location: Boston, MA
+
+Job Description:
+We are looking for a highly motivated and detail-oriented Entry-Level Data Scientist to join our dynamic team. The ideal candidate will have a strong foundation in statistics, machine learning, and data analysis, with the ability to translate business questions into actionable insights.
+
+Responsibilities:
+- Collect, clean, and analyze large datasets to identify trends and patterns
+- Build predictive models using Python and Scikit-Learn
+- Communicate insights and results to stakeholders through visualizations and reports
+- Collaborate with cross-functional teams including engineering and product development
+- Continuously improve data quality and model performance
+
+Qualifications:
+- Bachelor’s degree in Computer Science, Data Science, Statistics, or a related field
+- Proficiency in Python and SQL
+- Experience with machine learning libraries like Scikit-Learn, TensorFlow, or PyTorch
+- Familiarity with data visualization tools such as Matplotlib or Seaborn
+- Excellent communication and teamwork skills
+- Internship or project experience in data science is a plus
+
+Preferred Skills:
+- Knowledge of cloud platforms (AWS, GCP, or Azure)
+- Experience with Git and version control systems
+- Basic understanding of DevOps workflows
+
+Join us and make an impact by turning data into actionable intelligence!
+
